@@ -1,14 +1,15 @@
 {
-  "author": "Simeon Vincent <simeon@shortmail.com> (https://github.com/simeonv)",
   "name": "nah",
-  "description": "(NOT READY) A robust command line argument handler for when you don't feel like rolling your own.",
+  "preferGlobal": "true",
   "version": "0.0.0",
+  "author": "Simeon Vincent <svincent@gmail.com>",
+  "description": "INDEV: Command line argument interface.",
   "homepage": "http://github.com/simeonv/nah",
   "repository": {
     "type": "git",
     "url": "git://github.com/simeonv/nah.git"
   },
-  "main": "nah.js",
+  "main": "./nah.js",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
